@@ -23,13 +23,13 @@
    - 需要后续执行 `firecrawl.cmd login --browser` 或设置 `FIRECRAWL_API_KEY`。
 
 4. 已创建 Firecrawl 缓存目录：
-   - `D:\新疆\测试\商业计划\.firecrawl`
+   - `D:\Teddy创业项目\.firecrawl`
 
 5. 已将 `.firecrawl/` 加入项目 `.gitignore`。
 
 6. 已完成第一轮基础数据公开来源校验，并保存文件：
-   - `D:\新疆\测试\商业计划\基础数据校验-Firecrawl与公开来源-v1.md`
-   - `D:\新疆\测试\商业计划\市场数据口径说明-v1.md`
+   - `D:\Teddy创业项目\基础数据校验-Firecrawl与公开来源-v1.md`
+   - `D:\Teddy创业项目\市场数据口径说明-v1.md`
 
 ## 二、关键校验结论
 

@@ -12,7 +12,7 @@
 
 - 测试命令类型：`firecrawl scrape`
 - 测试页面：`https://firecrawl.dev`
-- 测试输出：`D:\新疆\测试\商业计划\.firecrawl\install-check.md`
+- 测试输出：`D:\Teddy创业项目\.firecrawl\install-check.md`
 - 测试结论：抓取成功，生成本地 markdown 文件。
 
 ## 注意事项

@@ -6,28 +6,28 @@
 
 ### 1. 完整PPTX
 
-- 文件：`D:\新疆\测试\商业计划\输出文件\Teddy商业计划书-A风格-v1.pptx`
+- 文件：`D:\Teddy创业项目\输出文件\Teddy商业计划书-A风格-v1.pptx`
 - 页数：18页
 - 风格：A风格暖色品牌型
 - 定位：内部执行汇报版
 
 ### 2. 预览图
 
-- 总览图：`D:\新疆\测试\商业计划\输出文件\PPT可调用素材\PPT预览\Teddy商业计划书-A风格-v1-总览.png`
-- 单页预览目录：`D:\新疆\测试\商业计划\outputs\manual-20260606-teddy-ppt-v1\presentations\teddy-business-plan-v1\previews`
+- 总览图：`D:\Teddy创业项目\输出文件\PPT可调用素材\PPT预览\Teddy商业计划书-A风格-v1-总览.png`
+- 单页预览目录：`D:\Teddy创业项目\outputs\manual-20260606-teddy-ppt-v1\presentations\teddy-business-plan-v1\previews`
 
 ### 3. 可复用模板资产
 
-- 模板规范：`D:\新疆\测试\商业计划\品牌资产\PPT模板\A风格暖色品牌型\A风格PPT模板规范-v1.md`
-- 主题代码：`D:\新疆\测试\商业计划\品牌资产\PPT模板\A风格暖色品牌型\teddy-a-style-theme.mjs`
-- 模板参考PPT：`D:\新疆\测试\商业计划\品牌资产\PPT模板\A风格暖色品牌型\Teddy-A风格PPT模板参考-v1.pptx`
-- 模板参考总览：`D:\新疆\测试\商业计划\品牌资产\PPT模板\A风格暖色品牌型\Teddy-A风格PPT模板参考-总览-v1.png`
+- 模板规范：`D:\Teddy创业项目\品牌资产\PPT模板\A风格暖色品牌型\A风格PPT模板规范-v1.md`
+- 主题代码：`D:\Teddy创业项目\品牌资产\PPT模板\A风格暖色品牌型\teddy-a-style-theme.mjs`
+- 模板参考PPT：`D:\Teddy创业项目\品牌资产\PPT模板\A风格暖色品牌型\Teddy-A风格PPT模板参考-v1.pptx`
+- 模板参考总览：`D:\Teddy创业项目\品牌资产\PPT模板\A风格暖色品牌型\Teddy-A风格PPT模板参考-总览-v1.png`
 
 ### 4. PPT专用中间文件
 
-- `D:\新疆\测试\商业计划\PPT大纲-v1.md`
-- `D:\新疆\测试\商业计划\09-发展里程碑.md`
-- `D:\新疆\测试\商业计划\PPT图表数据表.md`
+- `D:\Teddy创业项目\PPT大纲-v1.md`
+- `D:\Teddy创业项目\09-发展里程碑.md`
+- `D:\Teddy创业项目\PPT图表数据表.md`
 
 ## 二、PPT页面目录
 

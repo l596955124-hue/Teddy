@@ -15,8 +15,8 @@ GitHub 仓库：
 
 - Visibility：Public
 - 默认分支：`main`
-- 本地目录：`D:\新疆\测试\商业计划`
-- 说明：本地文件夹已从 `Teddy` 改名为 `商业计划`，GitHub远程仓库名称暂仍为 `Teddy`。
+- 本地目录：`D:\Teddy创业项目`
+- 说明：本地总目录已迁移到 D盘一级目录 `D:\Teddy创业项目`，GitHub远程仓库名称暂仍为 `Teddy`。
 
 同事可以通过以下方式克隆：
 
@@ -29,7 +29,8 @@ git clone https://github.com/l596955124-hue/Teddy.git
 1. `README.md`
 2. `项目总控上下文-精简版.md`
 3. `跨工作流同步规则.md`
-4. `项目协作规则.md`
+4. `工作流专区/README.md`
+5. `项目协作规则.md`
 
 ---
 
@@ -43,7 +44,7 @@ git clone https://github.com/l596955124-hue/Teddy.git
 | 名称 | Teddy 每日 GitHub 公开同步 |
 | 频率 | 每天 |
 | 时间 | 北京时间 23:30 |
-| 工作目录 | `D:\新疆\测试\商业计划` |
+| 工作目录 | `D:\Teddy创业项目` |
 | 目标仓库 | `l596955124-hue/Teddy` |
 | 分支 | `main` |
 
