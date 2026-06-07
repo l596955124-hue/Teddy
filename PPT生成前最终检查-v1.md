@@ -1,4 +1,4 @@
-# Teddy PPT生成前最终检查 v1
+﻿# Teddy PPT生成前最终检查 v1
 
 检查时间：2026-06-06 21:10
 
@@ -44,7 +44,7 @@
 来源：
 
 - 智研咨询：`https://www.chyxx.com/industry/1208346.html`
-- 本地抓取缓存：`D:\新疆\测试\Teddy\.firecrawl\adult-market-chyxx-2024.md`
+- 本地抓取缓存：`D:\新疆\测试\商业计划\.firecrawl\adult-market-chyxx-2024.md`
 
 PPT注意：
 
@@ -61,7 +61,7 @@ PPT注意：
 来源：
 
 - 商务部国际贸易经济合作研究院《即时零售行业发展报告（2024）》
-- 本地抓取缓存：`D:\新疆\测试\Teddy\.firecrawl\instant-retail-report-2024-caitec.md`
+- 本地抓取缓存：`D:\新疆\测试\商业计划\.firecrawl\instant-retail-report-2024-caitec.md`
 
 PPT注意：
 
@@ -77,7 +77,7 @@ PPT注意：
 来源：
 
 - 美团2024年财报新闻稿：`https://www.meituan.com/news/NN250321082001991`
-- 本地抓取缓存：`D:\新疆\测试\Teddy\.firecrawl\meituan-2024-results-flash.md`
+- 本地抓取缓存：`D:\新疆\测试\商业计划\.firecrawl\meituan-2024-results-flash.md`
 
 PPT注意：
 
@@ -93,7 +93,7 @@ PPT注意：
 来源：
 
 - 深圳市2024年国民经济和社会发展统计公报：`https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12190509.html`
-- 本地抓取缓存：`D:\新疆\测试\Teddy\.firecrawl\shenzhen-2024-statistical-bulletin.md`
+- 本地抓取缓存：`D:\新疆\测试\商业计划\.firecrawl\shenzhen-2024-statistical-bulletin.md`
 
 PPT注意：
 

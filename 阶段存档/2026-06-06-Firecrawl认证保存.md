@@ -1,4 +1,4 @@
-# 阶段存档：Firecrawl认证完成
+﻿# 阶段存档：Firecrawl认证完成
 
 保存时间：2026-06-06 20:50
 
@@ -12,7 +12,7 @@
 
 - 测试命令类型：`firecrawl scrape`
 - 测试页面：`https://firecrawl.dev`
-- 测试输出：`D:\新疆\测试\Teddy\.firecrawl\install-check.md`
+- 测试输出：`D:\新疆\测试\商业计划\.firecrawl\install-check.md`
 - 测试结论：抓取成功，生成本地 markdown 文件。
 
 ## 注意事项

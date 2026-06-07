@@ -1,4 +1,4 @@
-# Teddy GitHub协作与每日同步规则
+﻿# Teddy GitHub协作与每日同步规则
 
 > 更新时间：2026-06-07  
 > 用途：记录 Teddy 项目公开 GitHub 仓库、协作方式和每日自动同步规则。
@@ -15,7 +15,8 @@ GitHub 仓库：
 
 - Visibility：Public
 - 默认分支：`main`
-- 本地目录：`D:\新疆\测试\Teddy`
+- 本地目录：`D:\新疆\测试\商业计划`
+- 说明：本地文件夹已从 `Teddy` 改名为 `商业计划`，GitHub远程仓库名称暂仍为 `Teddy`。
 
 同事可以通过以下方式克隆：
 
@@ -42,7 +43,7 @@ git clone https://github.com/l596955124-hue/Teddy.git
 | 名称 | Teddy 每日 GitHub 公开同步 |
 | 频率 | 每天 |
 | 时间 | 北京时间 23:30 |
-| 工作目录 | `D:\新疆\测试\Teddy` |
+| 工作目录 | `D:\新疆\测试\商业计划` |
 | 目标仓库 | `l596955124-hue/Teddy` |
 | 分支 | `main` |
 

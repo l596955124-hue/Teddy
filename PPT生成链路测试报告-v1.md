@@ -1,4 +1,4 @@
-# Teddy PPT生成链路测试报告 v1
+﻿# Teddy PPT生成链路测试报告 v1
 
 保存时间：2026-06-06 20:55
 
@@ -15,21 +15,21 @@
 
 ## 测试产物
 
-- PPTX测试稿：`D:\新疆\测试\Teddy\输出文件\Teddy-A风格PPT链路测试.pptx`
-- 总览预览图：`D:\新疆\测试\Teddy\输出文件\PPT可调用素材\PPT链路测试\Teddy-A风格PPT链路测试-总览.png`
-- 单页预览图目录：`D:\新疆\测试\Teddy\outputs\manual-20260606-teddy-test\presentations\a-style-chain-test\previews`
-- 构建清单：`D:\新疆\测试\Teddy\outputs\manual-20260606-teddy-test\presentations\a-style-chain-test\artifact-build-manifest.json`
-- A风格 image2 背景图：`D:\新疆\测试\Teddy\品牌资产\PPT模板预览\A风格封面背景-image2测试-v1.png`
+- PPTX测试稿：`D:\新疆\测试\商业计划\输出文件\Teddy-A风格PPT链路测试.pptx`
+- 总览预览图：`D:\新疆\测试\商业计划\输出文件\PPT可调用素材\PPT链路测试\Teddy-A风格PPT链路测试-总览.png`
+- 单页预览图目录：`D:\新疆\测试\商业计划\outputs\manual-20260606-teddy-test\presentations\a-style-chain-test\previews`
+- 构建清单：`D:\新疆\测试\商业计划\outputs\manual-20260606-teddy-test\presentations\a-style-chain-test\artifact-build-manifest.json`
+- A风格 image2 背景图：`D:\新疆\测试\商业计划\品牌资产\PPT模板预览\A风格封面背景-image2测试-v1.png`
 
 ## 使用中发现的阻碍
 
 ### 1. Teddy项目根目录不能直接作为 Presentations 工作区
 
-原因：`D:\新疆\测试\Teddy\package.json` 不是 ESM 配置，缺少 `"type": "module"`。
+原因：`D:\新疆\测试\商业计划\package.json` 不是 ESM 配置，缺少 `"type": "module"`。
 
 处理方式：正式做 PPT 时，使用独立的 Presentations 工作目录，例如：
 
-`D:\新疆\测试\Teddy\outputs\manual-日期-teddy-ppt\presentations\正式PPT`
+`D:\新疆\测试\商业计划\outputs\manual-日期-teddy-ppt\presentations\正式PPT`
 
 ### 2. Windows 环境需要设置 HOME
 

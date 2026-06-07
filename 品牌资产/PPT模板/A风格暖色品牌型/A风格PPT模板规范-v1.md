@@ -1,4 +1,4 @@
-# Teddy A风格PPT模板规范 v1
+﻿# Teddy A风格PPT模板规范 v1
 
 保存时间：2026-06-06
 
@@ -73,10 +73,10 @@ A风格是 Teddy 品牌后续 PPT 的默认主模板，适用于：
 
 ## 当前关联文件
 
-- PPT测试稿：`D:\新疆\测试\Teddy\输出文件\Teddy-A风格PPT链路测试.pptx`
-- 模板预览：`D:\新疆\测试\Teddy\品牌资产\PPT模板预览\模板A-暖色品牌型-v1.png`
-- 封面背景：`D:\新疆\测试\Teddy\品牌资产\PPT模板预览\A风格封面背景-image2测试-v1.png`
-- 主题代码：`D:\新疆\测试\Teddy\品牌资产\PPT模板\A风格暖色品牌型\teddy-a-style-theme.mjs`
+- PPT测试稿：`D:\新疆\测试\商业计划\输出文件\Teddy-A风格PPT链路测试.pptx`
+- 模板预览：`D:\新疆\测试\商业计划\品牌资产\PPT模板预览\模板A-暖色品牌型-v1.png`
+- 封面背景：`D:\新疆\测试\商业计划\品牌资产\PPT模板预览\A风格封面背景-image2测试-v1.png`
+- 主题代码：`D:\新疆\测试\商业计划\品牌资产\PPT模板\A风格暖色品牌型\teddy-a-style-theme.mjs`
 
 ## 后续优化
 
