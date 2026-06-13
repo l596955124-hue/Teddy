@@ -8,3 +8,13 @@ outputs/
 *.bak
 Thumbs.db
 .DS_Store
+
+# Public GitHub safety: raw web captures can contain third-party page tokens or signed params.
+# Keep them local; upload cleaned summaries, SKU sheets, PPT assets, and project documents instead.
+工作流专区/02-选品与供应商专项/供应商资料/*.html
+工作流专区/02-选品与供应商专项/供应商资料/*.js
+工作流专区/02-选品与供应商专项/供应商资料/*pageData*.json
+工作流专区/02-选品与供应商专项/供应商资料/*raw*.html
+工作流专区/02-选品与供应商专项/供应商资料/*CDP*.json
+工作流专区/02-选品与供应商专项/供应商资料/*DOM*.json
+工作流专区/02-选品与供应商专项/供应商资料/*mtop*.json

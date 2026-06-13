@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .bg { fill: #FFF8E8; }
+      .title { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; font-size: 46px; font-weight: 800; fill: #3B2416; }
+      .subtitle { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; font-size: 22px; fill: #6B4A34; }
+      .laneTitle { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; font-size: 24px; font-weight: 700; }
+      .boxTitle { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; font-size: 21px; font-weight: 800; fill: #3B2416; }
+      .boxText { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; font-size: 16px; fill: #3B2416; }
+      .noteText { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; font-size: 18px; fill: #3B2416; }
+      .tiny { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; font-size: 14px; fill: #6B4A34; }
+      .arrow { stroke: #D4AF37; stroke-width: 4; stroke-opacity: 0.55; fill: none; marker-end: url(#arrowhead); }
+      .softArrow { stroke: #D4AF37; stroke-width: 4; stroke-opacity: 0.25; fill: none; marker-end: url(#arrowheadSoft); }
+      .stageNow { fill: #FFFFFF; stroke: #F5A623; stroke-width: 3; }
+      .stageLater { fill: #FFFFFF; stroke: #FF5A1F; stroke-width: 3; }
+      .stageBackend { fill: #FFFFFF; stroke: #2A164B; stroke-width: 3; }
+      .pillNow { fill: #F5A623; }
+      .pillLater { fill: #FF5A1F; }
+      .pillBackend { fill: #2A164B; }
+      .white { fill: #FFFFFF; }
+      .mutedLine { stroke: #E6D8C3; stroke-width: 2; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowheadSoft" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#D4AF37" fill-opacity="0.25"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#3B2416" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <rect class="bg" width="1920" height="1080"/>
+  <text x="80" y="86" class="title">平台开户资料准备流程</text>
+  <text x="80" y="124" class="subtitle">一个实体履约点承接 TEDDY TOGO / TEDDY BELLE / RAINBOW TEDDY 三个线上品牌；先准备可提前完成的内容，后补必须依赖选址和平台后台的资料。</text>
+
+  <rect x="80" y="158" width="1760" height="66" rx="18" fill="#FFFFFF" stroke="#E6D8C3" stroke-width="2"/>
+  <text x="112" y="199" class="noteText">重点提醒：营业执照必须等租赁合同和注册地址确认后再正式申请；现在先准备公司名称备选、法人资料、经营范围草案、租赁合同要求。</text>
+
+  <rect x="80" y="260" width="1760" height="98" rx="16" fill="#FFF0D6" stroke="#F5A623" stroke-width="2"/>
+  <circle cx="126" cy="309" r="18" class="pillNow"/>
+  <text x="158" y="300" class="laneTitle" fill="#3B2416">第一段：现在就能准备</text>
+  <text x="158" y="332" class="tiny">品牌资料、三品牌边界、商品资料表、商品图文模板、隐私履约物料。</text>
+
+  <rect x="80" y="520" width="1760" height="54" rx="16" fill="#FFF1E8" stroke="#FF5A1F" stroke-width="2"/>
+  <circle cx="126" cy="547" r="18" class="pillLater"/>
+  <text x="158" y="540" class="laneTitle" fill="#3B2416">第二段：选址和合同后才能拿到</text>
+  <text x="158" y="562" class="tiny">租赁合同、营业执照、真实门店照片、真实门头和打包区资料。</text>
+
+  <rect x="80" y="724" width="1760" height="54" rx="16" fill="#F3EEFF" stroke="#2A164B" stroke-width="2"/>
+  <circle cx="126" cy="751" r="18" class="pillBackend"/>
+  <text x="158" y="744" class="laneTitle" fill="#3B2416">第三段：提交平台后台后补齐</text>
+  <text x="158" y="766" class="tiny">平台类目、保证金、抽佣、实地核验、一镜到底视频、类目资质和品牌授权补件。</text>
+
+  <g filter="url(#shadow)">
+    <rect x="120" y="382" width="210" height="118" rx="16" class="stageNow"/>
+    <text x="142" y="420" class="boxTitle">0 开店模型</text>
+    <text x="142" y="450" class="boxText">一个实体店</text>
+    <text x="142" y="476" class="boxText">承接三个线上品牌</text>
+
+    <rect x="370" y="382" width="210" height="118" rx="16" class="stageNow"/>
+    <text x="392" y="420" class="boxTitle">1 通用资料</text>
+    <text x="392" y="450" class="boxText">LOGO / 简介 / 公告</text>
+    <text x="392" y="476" class="boxText">配送与售后说明</text>
+
+    <rect x="620" y="382" width="210" height="118" rx="16" class="stageNow"/>
+    <text x="642" y="420" class="boxTitle">2 品牌边界</text>
+    <text x="642" y="450" class="boxText">TOGO 低价刚需</text>
+    <text x="642" y="476" class="boxText">BELLE / RAINBOW 区分</text>
+
+    <rect x="870" y="382" width="210" height="118" rx="16" class="stageNow"/>
+    <text x="892" y="420" class="boxTitle">3 商品资料表</text>
+    <text x="892" y="450" class="boxText">SKU / 价格 / 库存</text>
+    <text x="892" y="476" class="boxText">供应商 / 授权状态</text>
+
+    <rect x="1120" y="382" width="210" height="118" rx="16" class="stageNow"/>
+    <text x="1142" y="420" class="boxTitle">4 图文模板</text>
+    <text x="1142" y="450" class="boxText">主图 / 详情图</text>
+    <text x="1142" y="476" class="boxText">隐私包装 / 售后图</text>
+
+    <rect x="1370" y="382" width="210" height="118" rx="16" class="stageNow"/>
+    <text x="1392" y="420" class="boxTitle">5 履约物料</text>
+    <text x="1392" y="450" class="boxText">隐私袋 / 封口贴</text>
+    <text x="1392" y="476" class="boxText">打包 SOP / 取货区</text>
+
+    <rect x="120" y="584" width="240" height="118" rx="16" class="stageLater"/>
+    <text x="142" y="622" class="boxTitle">6 选址签合同</text>
+    <text x="142" y="652" class="boxText">确认可注册公司</text>
+    <text x="142" y="678" class="boxText">可做线上零售取货</text>
+
+    <rect x="410" y="584" width="240" height="118" rx="16" class="stageLater"/>
+    <text x="432" y="622" class="boxTitle">7 办营业执照</text>
+    <text x="432" y="652" class="boxText">地址确定后申请</text>
+    <text x="432" y="678" class="boxText">经营范围按当地核验</text>
+
+    <rect x="700" y="584" width="240" height="118" rx="16" class="stageLater"/>
+    <text x="722" y="622" class="boxTitle">8 拍实景资料</text>
+    <text x="722" y="652" class="boxText">门头 / 店内 / 货架</text>
+    <text x="722" y="678" class="boxText">打包区 / 取货区</text>
+
+    <rect x="120" y="786" width="240" height="118" rx="16" class="stageBackend"/>
+    <text x="142" y="824" class="boxTitle">9 提交平台</text>
+    <text x="142" y="854" class="boxText">美团 / 淘宝闪购</text>
+    <text x="142" y="880" class="boxText">饿了么后台填写</text>
+
+    <rect x="410" y="786" width="240" height="118" rx="16" class="stageBackend"/>
+    <text x="432" y="824" class="boxTitle">10 审核补件</text>
+    <text x="432" y="854" class="boxText">视频 / 资质 / 授权</text>
+    <text x="432" y="880" class="boxText">类目证明 / 截图</text>
+
+    <rect x="700" y="786" width="240" height="118" rx="16" class="stageBackend"/>
+    <text x="722" y="824" class="boxTitle">11 试营业</text>
+    <text x="722" y="854" class="boxText">小批量 SKU 测试</text>
+    <text x="722" y="880" class="boxText">审核风险与转化</text>
+  </g>
+
+  <path class="arrow" d="M330 441 L370 441"/>
+  <path class="arrow" d="M580 441 L620 441"/>
+  <path class="arrow" d="M830 441 L870 441"/>
+  <path class="arrow" d="M1080 441 L1120 441"/>
+  <path class="arrow" d="M1330 441 L1370 441"/>
+  <path class="softArrow" d="M1475 500 C1475 552 600 530 240 584"/>
+  <path class="arrow" d="M360 643 L410 643"/>
+  <path class="arrow" d="M650 643 L700 643"/>
+  <path class="softArrow" d="M820 702 C820 748 390 748 240 786"/>
+  <path class="arrow" d="M360 845 L410 845"/>
+  <path class="arrow" d="M650 845 L700 845"/>
+
+  <rect x="1040" y="790" width="760" height="176" rx="18" fill="#FFFFFF" stroke="#E6D8C3" stroke-width="2"/>
+  <text x="1070" y="830" class="boxTitle">三品牌宣传图边界</text>
+  <line x1="1070" y1="848" x2="1770" y2="848" class="mutedLine"/>
+  <text x="1070" y="886" class="noteText">TOGO：允许合规包装和基础商品图更直接，禁止低俗、器官暗示、过度暴露。</text>
+  <text x="1070" y="922" class="noteText">BELLE：女性高端用品不走暴露路线，主打礼盒、丝袜盒、面料、卫生舒适。</text>
+  <text x="1070" y="958" class="noteText">RAINBOW：平台图用紫色礼盒、边界卡、尊重说明表达，不直接展示高敏感器具。</text>
+
+  <text x="80" y="1024" class="tiny">文件用途：PPT、团队培训、平台主管开店资料准备指引。当前为流程示意图，不替代各平台后台最新审核要求。</text>
+</svg>
